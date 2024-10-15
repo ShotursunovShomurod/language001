@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "Languages": "Languages",
+    "home": "Home",
+    "shop": "Shop",
+    "contact": "Contact",
+    "blog": "Blog"
+  },
+  "HomePage": {
+    "section1": {
+      "p1": "New Arrival",
+      "h1": "Discover Our New Collection",
+      "p2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.",
+      "btn": "Buy now"
+    },
+    "section2": {
+      "h1": "Browse The Range",
+      "p1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "p2": "Dining",
+      "p3": "Living",
+      "p4": "Bedroom"
+    },
+    "section3": {
+      "h1": "Our Products",
+      "btn": "Show More"
+    },
+    "section4": {
+      "h1": "50+ Beautiful rooms inspiration",
+      "p1": "Our designer already made a lot of beautiful prototypes of rooms that inspire you.",
+      "btn": "Explore More"
+    },
+    "section5": {
+      "p1": "Share your setup with"
+    }
+  },
+  "Footer": {
+    "h1": "Furniro",
+    "h2": "Links",
+    "p1": {
+      "first": "400 University Drive Suite 200 Coral Gables,",
+      "second": " FL 33134 USA"
+    },
+    "placeholder": "Enter Your Email Address",
+
+    "home": "Home",
+    "shop": "Shop",
+    "about": "About",
+    "contact": "Contact",
+    "help": "Help",
+    "a1": "Payment Options",
+    "a2": "Returns",
+    "a3": "Privacy Policies",
+    "h3": "Newsletter",
+    "btn": "Subscribe",
+    "p2": "© 2023 Funiro. All rights reserved."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "Header": {
+    "Languages": "Tillar",
+    "home": "Bosh sahifa",
+    "shop": "Xaridlar",
+    "contact": "Bog'lanish",
+    "blog": "Bloglar"
+  },
+  "HomePage": {
+    "section1": {
+      "p1": "Yangi kelganlar",
+      "h1": "Yangi to'plamimizni sinab ko'ring!",
+      "p2": "lorem ipchi ko'piklanib uchib borar ertakka bankamatlar bankka borib qarz olar samalyot yer ostida yotar 100 yillar o'tar lekin odam o'tmas",
+      "btn": "Hoziroq oling"
+    },
+    "section2": {
+      "h1": "Diapazonni Ko'rib Chiqing",
+      "p1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "p2": "O'vqatlanish",
+      "p3": "Mehmonhona",
+      "p4": "Yotoq"
+    },
+    "section3": {
+      "h1": "Maxsulotlarimiz",
+      "btn": "Ko'prog'ini ko'rish"
+    },
+    "section4": {
+      "h1": "50 + chiroyli xonalar ilhomi",
+      "p1": "Bizning dizaynerimiz sizni ilhomlantiradigan xonalarning juda ko'p chiroyli prototiplarini yaratdi.",
+      "btn": "Ko'proq o'rganing"
+    },
+    "section5": {
+      "p1": "Barpo etishingizni ulashing"
+    }
+  },
+  "Footer": {
+    "h1": "Furniro",
+    "h2": "Havolalar",
+    "p1": {
+      "first": "400 Universitet Drive Suite 200 Coral Gables,",
+      "second": " FL 33134 USA"
+    },
+    "placeholder": "Email kiriting",
+    "home": "Bosh sahifa",
+    "shop": "Haridlar",
+    "about": "Biz xaqimizda",
+    "contact": "Bog'lanish",
+    "help": "Yordam",
+    "a1": "To'lov usullari",
+    "a2": "Qayarishlar",
+    "a3": "Maxfiylik Siyosati",
+    "h3": "Gazeta",
+    "btn": "Obuna",
+    "p2": "2023 funiro. Barcha huquqlar himoyalangan."
+  }
+}
